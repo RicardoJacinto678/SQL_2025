@@ -1,0 +1,20 @@
+Clientes - Faturas
+Um cliente pode ter varias faturas (1-n)
+Uma fatura petence a 1 cliente (1-1)
+Funcionários - clientes
+
+Funcionarios - Cliente 
+Varios funcionarios tem varios clientes (n-n)
+Um funcionarios tem varios clientes (1-n)
+
+ Produtos - Faturas 
+ Varios produtos pertencem a uma fatura (n-1)
+ varios produtos pertecem varias faturas (n-n)
+
+clientes- produtos 
+Um cliente tem varios tem varios produtos 
+
+ 
+
+
+
