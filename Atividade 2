@@ -1,1 +1,7 @@
+Produtos >.........< Clientes  
+
+Fatura  >..........< Produtos
+
+Clientes >.........< Fatura
+
 
