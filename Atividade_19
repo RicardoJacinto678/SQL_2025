@@ -1,0 +1,8 @@
+create database Portugal,
+use Portugal 
+create table
+   CidadeID INT Primary Key
+   Nome_cidades varchar(100)
+   Código_postal Int
+seclet from cidade
+seclet cidades ID_From cidades
